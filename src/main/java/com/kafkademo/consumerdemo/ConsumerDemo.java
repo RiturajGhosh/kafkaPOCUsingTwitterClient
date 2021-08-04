@@ -12,6 +12,12 @@ import org.apache.kafka.common.serialization.StringDeserializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+/**
+ * Consumer
+ * 
+ * @author Rituraj
+ *
+ */
 public class ConsumerDemo {
 
 	public static void main(String[] args) {
