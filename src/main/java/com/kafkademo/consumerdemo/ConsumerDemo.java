@@ -20,6 +20,11 @@ import org.slf4j.LoggerFactory;
  */
 public class ConsumerDemo {
 
+	/**
+	 * Main method
+	 * 
+	 * @param args
+	 */
 	public static void main(String[] args) {
 
 		Logger logger = LoggerFactory.getLogger(ConsumerDemo.class);
